@@ -7,5 +7,5 @@ public interface StudentService {
 
     void deleteUser();
 
-    void modifyUser();
+    void addUserList();
 }
