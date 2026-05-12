@@ -11,4 +11,8 @@ public interface StudentService {
 
     void addUserList();
 
+    void getStudentClass();
+
+    void getClassroom();
+
 }
